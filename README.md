@@ -2,6 +2,7 @@ phototacticrover
 ================
 A robot that follows light using only phone Camera as the sensor.
 
+VIDEO -> http://vimeo.com/84475789
 
 A simple android application to demonstrate image processing on a hand held device.
 
